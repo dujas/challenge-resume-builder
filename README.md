@@ -1,4 +1,4 @@
-# Manatal: resume builder
+# Resume builder
 
 Stack:
 
